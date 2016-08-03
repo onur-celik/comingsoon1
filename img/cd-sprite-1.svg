@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80px" height="16px" viewBox="0 0 80 16" enable-background="new 0 0 80 16" xml:space="preserve">
+<g transform="translate(16, 0)">
+	<path fill="#FFFFFF" d="M15,1H1C0.4,1,0,1.4,0,2v12c0,0.6,0.4,1,1,1h14c0.6,0,1-0.4,1-1V2C16,1.4,15.6,1,15,1z M14,13H2V6.7
+		l5.5,3.1C7.7,10,7.8,10,8,10s0.3,0,0.5-0.1L14,6.7V13z M14,4.4L8,7.8L2,4.4V3h12V4.4z"/>
+</g>
+<g transform="translate(32, 0)">
+	<path fill="#FFFFFF" d="M3,16h10c0.6,0,1-0.4,1-1V7.5l0.3,0.3C14.5,7.9,14.8,8,15,8c0.3,0,0.6-0.1,0.8-0.3c0.4-0.4,0.3-1-0.1-1.4
+		l-7-6C8.3,0,7.8,0,7.4,0.3L4,3.1V2c0-0.6-0.4-1-1-1S2,1.4,2,2v2.8L0.3,6.2c-0.4,0.4-0.5,1-0.1,1.4c0.4,0.4,1,0.5,1.4,0.1L2,7.5V15
+		C2,15.6,2.4,16,3,16z M4,5.7l4-3.4l4,3.5c0,0.1,0,0.1,0,0.2v8h-2v-3c0-0.6-0.4-1-1-1H7c-0.6,0-1,0.4-1,1v3H4V5.7z"/>
+	<rect x="6" y="6" fill="#FFFFFF" width="4" height="2"/>
+</g>
+<g transform="translate(48, 0)">
+	<circle fill="#FFFFFF" cx="6" cy="8" r="2"/>
+	<path fill="#FFFFFF" d="M10,2H6C2.7,2,0,4.7,0,8s2.7,6,6,6h4c3.3,0,6-2.7,6-6S13.3,2,10,2z M10,12H6c-2.2,0-4-1.8-4-4s1.8-4,4-4h4
+		c2.2,0,4,1.8,4,4S12.2,12,10,12z"/>
+</g>
+<g transform="translate(64, 0)">
+	<path fill="#FFFFFF" d="M6,0H1C0.4,0,0,0.4,0,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V1C7,0.4,6.6,0,6,0z M5,5H2V2h3V5z"/>
+	<path fill="#FFFFFF" d="M15,0h-5C9.4,0,9,0.4,9,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V1C16,0.4,15.6,0,15,0z M14,5h-3V2h3V5z"/>
+	<path fill="#FFFFFF" d="M6,9H1c-0.6,0-1,0.4-1,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1v-5C7,9.4,6.6,9,6,9z M5,14H2v-3h3V14z"/>
+	<path fill="#FFFFFF" d="M15,9h-5c-0.6,0-1,0.4-1,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1v-5C16,9.4,15.6,9,15,9z M14,14h-3v-3h3V14z
+		"/>
+</g>
+<g transform="translate(64, 0)">
+	<path fill="#FFFFFF" d="M-58,0h-5c-0.6,0-1,0.4-1,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V1C-57,0.4-57.4,0-58,0z M-59,5h-3V2h3V5z"
+		/>
+	<path fill="#FFFFFF" d="M-49,0h-5c-0.6,0-1,0.4-1,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V1C-48,0.4-48.4,0-49,0z M-50,5h-3V2h3V5z"
+		/>
+	<path fill="#FFFFFF" d="M-58,9h-5c-0.6,0-1,0.4-1,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1v-5C-57,9.4-57.4,9-58,9z M-59,14h-3v-3h3
+		V14z"/>
+	<path fill="#FFFFFF" d="M-49,9h-5c-0.6,0-1,0.4-1,1v5c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1v-5C-48,9.4-48.4,9-49,9z M-50,14h-3v-3h3
+		V14z"/>
+</g>
+</svg>
